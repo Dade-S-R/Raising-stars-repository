@@ -1,5 +1,5 @@
-# Raising-stars-repository
-This is the repository made during the Raising stars event-
+# Rising-stars-repository
+This is the repository made during the Rising stars event-
 
 ![Python logo](https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png)
 # Introduction
