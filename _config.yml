@@ -1,0 +1,5 @@
+remote_theme: pages-themes/tactile
+title: Tactile
+
+plugins:
+  - jekyll-seo-tag
